@@ -9,16 +9,37 @@ public class Main {
         int levelCompleted = 5;
         int bonus = 100;
 
-        int finalScore = calculateScore(gameOver, score, levelCompleted, bonus);
-        System.out.println("Your final score was : " + finalScore);
+        int highScore = calculateScore(gameOver, score, levelCompleted, bonus);
+        System.out.println("Your final score was : " + highScore);
 
         score = 10000;
         levelCompleted = 8;
         bonus = 200;
 
 
-        finalScore = calculateScore(gameOver, score, levelCompleted, bonus);
-        System.out.println("Your final score was : " + finalScore);
+        highScore = calculateScore(gameOver, score, levelCompleted, bonus);
+        System.out.println("Your final score was : " + highScore);
+
+
+        String playerName = "Fahim Foysal Emon";
+        int positionScore = 80;
+        displayHighScorePosition(playerName, positionScore);
+
+        int returnData = calculateHighScorePosition(1500);
+        displayHighScorePosition("Tim",returnData);
+
+        returnData = calculateHighScorePosition(900);
+        displayHighScorePosition("Bob",returnData);
+
+        returnData = calculateHighScorePosition(400);
+        displayHighScorePosition("Percy",returnData);
+
+        returnData = calculateHighScorePosition(50);
+        displayHighScorePosition("Gilbert",returnData);
+
+        returnData = calculateHighScorePosition(1000);
+        displayHighScorePosition("Emon",returnData);
+
 
     }
 
@@ -30,5 +51,19 @@ public class Main {
             return finalScore;
         }
         return -1;
+    }
+
+    public static void displayHighScorePosition(String playerName, int positionScore) {
+        System.out.println(playerName+" managed to get into position "+positionScore+" on the high score table");
+    }
+
+    public static int calculateHighScorePosition(int positionScore) {
+        if (positionScore >= 1000)
+            return 1;
+        if (positionScore >= 500 && positionScore< 1000)
+            return 2;
+        if (positionScore >= 100 && positionScore< 500)
+            return 3;
+        return 4;
     }
 }
