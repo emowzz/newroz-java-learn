@@ -58,22 +58,22 @@ public class Main {
     }
 
     public static int calculateHighScorePosition(int positionScore) {
-        if (positionScore >= 1000)
-            return 1;
-        if (positionScore >= 500)
-            return 2;
-        if (positionScore >= 100)
-            return 3;
-        return 4;
+//        if (positionScore >= 1000)
+//            return 1;
+//        if (positionScore >= 500)
+//            return 2;
+//        if (positionScore >= 100);
+//            return 3;
+//        return 4;
 
         //alternative way to return
-//        int position = 4;
-//        if (positionScore >= 1000)
-//            position = 1;
-//        if (positionScore >= 500)
-//            position = 2;
-//        if (positionScore >= 100)
-//            position = 3;
+        int position = 4;
+        if (positionScore >= 1000)
+            position = 1;
+        if (positionScore >= 500)
+            position = 2;
+        if (positionScore >= 100)
+            position = 3;
 //
 //        return position;
 
