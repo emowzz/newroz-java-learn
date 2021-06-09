@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a448121a-2bd2-40a3-b055-9f606ea134fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_AreaCalculator/src/AreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_AreaCalculator/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes_Challange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondsAndMinutes_Challange/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/Exercise_MinutesToYearsAndDaysCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/src/MinutesToYearsDaysCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_AreaCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_AreaCalculator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SpeedConverter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -29,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -58,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
@@ -128,7 +133,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="782" height="831" extended-state="1" />
+    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25623268" />
@@ -160,17 +165,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SpeedConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpeedConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
