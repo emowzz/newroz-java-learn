@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a448121a-2bd2-40a3-b055-9f606ea134fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_EqualityPrinter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_EqualityPrinter/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_EqualityPrinter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_EqualityPrinter/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_EqualityPrinter/Exercise_EqualityPrinter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_EqualityPrinter/src/IntEqualityPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_EqualityPrinter/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/src/MinutesToYearsDaysCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_MinutesToYearsAndDaysCalculator/src/MinutesToYearsDaysCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_PlayingCat/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_PlayingCat/src/PlayingCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_EqualityPrinter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_EqualityPrinter/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/SpeedConverter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -169,7 +163,7 @@
     <entry file="file://$PROJECT_DIR$/src/SpeedConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
