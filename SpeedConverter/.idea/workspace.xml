@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a448121a-2bd2-40a3-b055-9f606ea134fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_LeapYearCalculator/src/LeapYearCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_LeapYearCalculator/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_BarkingDog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_BarkingDog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_DecimalComparator/src/DecimalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_DecimalComparator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_LeapYearCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LeapYearCalculator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
