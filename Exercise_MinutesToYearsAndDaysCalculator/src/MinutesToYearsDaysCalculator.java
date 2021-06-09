@@ -10,8 +10,7 @@ public class MinutesToYearsDaysCalculator {
             System.out.println(minutes+" min = "+years+" y and "+remainingDays+" d");
         }
         else {
-            System.out.println("Invalid Value");
-
+            System.out.println("Invalid");
         }
 
 
