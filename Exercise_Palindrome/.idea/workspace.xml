@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f37adae4-dff8-45e1-8f53-100a767e8a6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_Palindrome/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Palindrome/src/NumberPalindrome.java" afterDir="false" />
+    <list default="true" id="8cf81434-46b1-4194-935c-c3bba99f8884" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DigitSumChallange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallange/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_NumberInWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_NumberInWord/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NumberInWord.java">
+        <entry file="file://$PROJECT_DIR$/src/NumberPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="36" column="8" selection-start-line="4" selection-start-column="12" selection-end-line="36" selection-end-column="8" />
+            <state relative-caret-position="325">
+              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -33,11 +33,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="125">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#63#64#0" expanded="true" />
-                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#99#100#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,8 +58,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NumberInWord.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/NumberPalindrome.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -74,23 +81,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Exercise_NumberInWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise_NumberInWord" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise_Palindrome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise_Palindrome" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,7 +111,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Exercise_NumberInWord" />
+      <module name="Exercise_Palindrome" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,11 +127,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f37adae4-dff8-45e1-8f53-100a767e8a6a" name="Default Changelist" comment="" />
-      <created>1623307656493</created>
+      <changelist id="8cf81434-46b1-4194-935c-c3bba99f8884" name="Default Changelist" comment="" />
+      <created>1623332097805</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1623307656493</updated>
+      <updated>1623332097805</updated>
     </task>
     <servers />
   </component>
@@ -166,19 +170,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#63#64#0" expanded="true" />
-            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#99#100#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberInWord.java">
+    <entry file="file://$PROJECT_DIR$/src/NumberPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="36" column="8" selection-start-line="4" selection-start-column="12" selection-end-line="36" selection-end-column="8" />
+        <state relative-caret-position="325">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
