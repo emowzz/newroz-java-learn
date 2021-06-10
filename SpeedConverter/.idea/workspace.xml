@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a448121a-2bd2-40a3-b055-9f606ea134fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../WhileandDoWhileStatements/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileandDoWhileStatements/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_NumberInWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_NumberInWord/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_SumOddRange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_SumOddRange/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhileandDoWhileStatements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WhileandDoWhileStatements/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,6 +128,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="783" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26417705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
