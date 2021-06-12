@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d571d4a5-cc50-4761-8b6b-2774154e9e4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_SharedDigit/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_SharedDigit/src/SharedDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_LastDigitCheck/src/LastDigitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_LastDigitCheck/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_NumberInWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_NumberInWord/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_SharedDigit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_SharedDigit/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
