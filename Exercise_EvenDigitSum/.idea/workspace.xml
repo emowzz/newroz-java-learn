@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d571d4a5-cc50-4761-8b6b-2774154e9e4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_GreatestCommonDivisor/src/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_GreatestCommonDivisor/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_LastDigitCheck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LastDigitCheck/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_GreatestCommonDivisor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_GreatestCommonDivisor/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_NumberInWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_NumberInWord/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -156,7 +153,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

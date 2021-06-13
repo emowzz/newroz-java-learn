@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a448121a-2bd2-40a3-b055-9f606ea134fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_GreatestCommonDivisor/src/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_GreatestCommonDivisor/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_EvenDigitSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_EvenDigitSum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_LastDigitCheck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LastDigitCheck/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_GreatestCommonDivisor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_GreatestCommonDivisor/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_NumberInWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_NumberInWord/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -61,9 +59,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -71,6 +69,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,8 +82,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,10 +128,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="784" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27209944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2815534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
