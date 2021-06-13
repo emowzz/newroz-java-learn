@@ -10,9 +10,9 @@ public class SumOddRange {
 
     public static int sumOdd (int start, int end)
     {
-        int sum = 0;
         if (end >= start && start>0 && end>0)
         {
+            int sum = 0;
             for (int i = start ; i<= end ; i++)
             {
                 if (isOdd(i))
