@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc341bb2-c1c1-4bc2-ab3f-110239a9af7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ReadingUserInputChallange/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadingUserInputChallange/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinimumAndMaximumChallenge/MinimumAndMaximumChallenge.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_DiagonalStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_DiagonalStar/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_LargestPrime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LargestPrime/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallange/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,7 +101,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
