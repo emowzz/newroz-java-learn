@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08568de3-4eff-4d54-9232-6a2ce8ab8b86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/Exercise_InputCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/src/InputCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/src/Main.java" afterDir="false" />
+    <list default="true" id="5c6418c8-06e0-430c-b3c9-0412ccbc35dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_InputCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_DiagonalStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_DiagonalStar/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_LargestPrime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LargestPrime/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MinimumAndMaximumChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinimumAndMaximumChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallange/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,17 +27,40 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/InputCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="350">
+              <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+              <folding>
+                <element signature="e#63#64#0" expanded="true" />
+                <element signature="e#93#94#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -45,7 +68,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/InputCalculator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -60,9 +91,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Exercise_InputCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise_InputCalculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -81,12 +122,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="ReadingUserInputChallange" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Exercise_InputCalculator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,11 +140,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="08568de3-4eff-4d54-9232-6a2ce8ab8b86" name="Default Changelist" comment="" />
-      <created>1623667743638</created>
+      <changelist id="5c6418c8-06e0-430c-b3c9-0412ccbc35dc" name="Default Changelist" comment="" />
+      <created>1623671650369</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1623667743638</updated>
+      <updated>1623671650369</updated>
     </task>
     <servers />
   </component>
@@ -119,7 +157,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.34674063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -143,10 +181,24 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="50">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#93#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

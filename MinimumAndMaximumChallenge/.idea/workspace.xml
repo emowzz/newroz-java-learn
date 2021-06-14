@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd67e030-55e7-4154-936e-6a59e93bf295" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MinimumAndMaximumChallenge.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_DiagonalStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_DiagonalStar/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_LargestPrime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LargestPrime/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" afterDir="false" />
@@ -24,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="375">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -65,6 +64,9 @@
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,7 +126,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -142,8 +144,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="375">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>

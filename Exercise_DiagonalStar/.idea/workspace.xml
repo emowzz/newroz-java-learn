@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adbe3b47-955e-4454-976d-cf639ef015e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MinimumAndMaximumChallenge/MinimumAndMaximumChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/Exercise_InputCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/src/InputCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_LargestPrime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LargestPrime/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinimumAndMaximumChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinimumAndMaximumChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallange/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -140,6 +147,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
