@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08568de3-4eff-4d54-9232-6a2ce8ab8b86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_PaintJob/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_PaintJob/src/PaintJob.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_DiagonalStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_DiagonalStar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_InputCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_InputCalculator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_LargestPrime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LargestPrime/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_PaintJob/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_PaintJob/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,7 +119,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3295129" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
