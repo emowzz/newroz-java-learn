@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="467da2b0-8272-4ca3-be1b-c2726c8ca6e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_Floor/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Floor/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Floor/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Floor/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Floor/Exercise_Floor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Floor/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Floor/src/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Floor/src/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Floor/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Floor/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exxercise_ComplexOperator/src/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exxercise_ComplexOperator/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConstructorPart_1_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorPart_1_Challenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Floor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Floor/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_Point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Point/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_WallArea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_WallArea/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
