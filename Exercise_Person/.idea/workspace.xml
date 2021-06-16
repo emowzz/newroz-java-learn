@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="467da2b0-8272-4ca3-be1b-c2726c8ca6e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exxercise_ComplexOperator/src/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exxercise_ComplexOperator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/company/Fish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConstructorPart_1_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorPart_1_Challenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_Floor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Floor/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_WallArea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_WallArea/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exxercise_ComplexOperator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exxercise_ComplexOperator/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
