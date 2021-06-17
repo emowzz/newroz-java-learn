@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8eff6e-0c36-461f-b18c-abe11b8feac6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Cylinder/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cylinder/src/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cylinder/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConstructorCallingAndSuper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorCallingAndSuper/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaExaminationProblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaExaminationProblem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../refVSobjVSinstanceVSclass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../refVSobjVSinstanceVSclass/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_PoolArea/src/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_PoolArea/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_PoolArea/src/Ractangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cylinder/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
