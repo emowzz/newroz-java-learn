@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51ab9fe8-f7f1-46be-84dd-b3c4935fb60f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../refVSobjVSinstanceVSclass/src/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../refVSobjVSinstanceVSclass/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/src/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Person/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Person/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_WallArea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_WallArea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refVSobjVSinstanceVSclass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../refVSobjVSinstanceVSclass/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -193,7 +192,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

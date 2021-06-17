@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08171d9a-f298-42d6-b41a-95e630029173" name="Default Changelist" comment="">
+    <list default="true" id="fee87711-448e-4de0-b3c7-1d68500faa8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructorCallingAndSuper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ractangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_Challange1/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_Challange1/src/com/company/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_Challange1/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/JavaExaminationProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/src/CSEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/src/CivilEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/src/Doctor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/src/Engineer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/src/Human.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaExaminationProblem/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConstructorPart_1_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorPart_1_Challenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Person/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Person/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_WallArea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_WallArea/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../refVSobjVSinstanceVSclass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../refVSobjVSinstanceVSclass/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,29 +42,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Wall.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              <folding>
-                <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
-                <element signature="e#942#943#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ractangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="13" selection-end-line="14" />
+            <state relative-caret-position="300">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,8 +79,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Wall.java" />
+        <option value="$PROJECT_DIR$/src/Shape.java" />
+        <option value="$PROJECT_DIR$/src/Ractangle.java" />
       </list>
     </option>
   </component>
@@ -88,19 +102,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Exercise_WallArea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise_WallArea" type="462c0819:PsiDirectoryNode" />
+              <item name="ConstructorCallingAndSuper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConstructorCallingAndSuper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,51 +132,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Exercise_WallArea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="08171d9a-f298-42d6-b41a-95e630029173" name="Default Changelist" comment="" />
-      <created>1623754127530</created>
+      <changelist id="fee87711-448e-4de0-b3c7-1d68500faa8d" name="Default Changelist" comment="" />
+      <created>1623850162106</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1623754127530</updated>
+      <updated>1623850162106</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24965326" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24965326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,25 +176,27 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Construtor_Super.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="13" selection-end-line="14" />
+        <state>
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Wall.java">
+    <entry file="file://$PROJECT_DIR$/src/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="200">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ractangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
           </folding>
         </state>
       </provider>
