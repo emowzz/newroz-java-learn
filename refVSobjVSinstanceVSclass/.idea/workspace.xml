@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38d193f2-de9b-4a86-8a5c-ab477d8d8c70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/Composition_challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Wall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition_challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition_challenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConstructorCallingAndSuper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorCallingAndSuper/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cylinder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Inheritance_Challange1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance_Challange1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaExaminationProblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaExaminationProblem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
