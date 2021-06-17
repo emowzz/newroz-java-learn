@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8eff6e-0c36-461f-b18c-abe11b8feac6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/Composition_challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_challenge/src/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConstructorCallingAndSuper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorCallingAndSuper/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cylinder/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_PoolArea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_PoolArea/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaExaminationProblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaExaminationProblem/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../refVSobjVSinstanceVSclass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../refVSobjVSinstanceVSclass/.idea/workspace.xml" afterDir="false" />
@@ -108,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -191,7 +194,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
