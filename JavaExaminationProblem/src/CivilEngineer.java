@@ -1,4 +1,4 @@
-public class CivilEngineer extends Human{
+public class CivilEngineer extends Engineer{
 
     public void study()
     {

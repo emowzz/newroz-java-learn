@@ -1,4 +1,4 @@
-public class CSEngineer extends Human{
+public class CSEngineer extends Engineer{
 
     public void study()
     {
