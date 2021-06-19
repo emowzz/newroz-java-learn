@@ -1,28 +1,28 @@
 public class Printer {
-    private int tonnerLevel;
+    private int tonerLevel;
     private int pagesPrinted;
     private boolean duplex;
 
-    public Printer(int tonnerLevel, boolean duplex) {
-        if (tonnerLevel > -1 && tonnerLevel <= 100)
+    public Printer(int tonerLevel, boolean duplex) {
+        if (tonerLevel > -1 && tonerLevel <= 100)
         {
-            this.tonnerLevel = tonnerLevel;
+            this.tonerLevel = tonerLevel;
         }
         else{
-            this.tonnerLevel = -1;
+            this.tonerLevel = -1;
         }
         this.duplex = duplex;
         this.pagesPrinted = 0;
     }
 
-    public int addToner(int tonnerAmount)
+    public int addToner(int tonerAmount)
     {
-        if(tonnerAmount > 0 && tonnerAmount<=100)
+        if(tonerAmount > 0 && tonerAmount<=100)
         {
-            if(this.tonnerLevel + tonnerAmount > 100){
+            if(this.tonerLevel + tonerAmount > 100){
                 return -1;
             }
-            return this.tonnerLevel += tonnerAmount;
+            return this.tonerLevel += tonerAmount;
         }
         else {
             return -1;
