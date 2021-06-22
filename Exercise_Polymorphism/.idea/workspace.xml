@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eea4b40-0f81-4fb2-95f3-e7b3c4516b2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Array/Exercise_SortedArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Array/src/SortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Bill's_Burger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/HealthyBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,24 +29,12 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="400">
               <caret line="21" column="18" selection-end-line="37" />
-              <folding>
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -55,17 +51,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mitsubishi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="75">
               <caret line="5" column="13" selection-end-line="20" />
               <folding>
                 <element signature="e#87#88#0" expanded="true" />
                 <element signature="e#125#126#0" expanded="true" />
                 <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,17 +66,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Holden.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="100">
               <caret line="7" column="18" selection-end-line="20" />
               <folding>
                 <element signature="e#79#80#0" expanded="true" />
                 <element signature="e#117#118#0" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,11 +87,7 @@
                 <element signature="e#76#77#0" expanded="true" />
                 <element signature="e#114#115#0" expanded="true" />
                 <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,9 +117,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,20 +185,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24965326" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25623268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
@@ -222,17 +202,28 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="21" column="18" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -240,55 +231,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="21" column="18" selection-end-line="37" />
-          <folding>
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Mitsubishi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="75">
           <caret line="5" column="13" selection-end-line="20" />
           <folding>
             <element signature="e#87#88#0" expanded="true" />
             <element signature="e#125#126#0" expanded="true" />
             <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Holden.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="100">
           <caret line="7" column="18" selection-end-line="20" />
           <folding>
             <element signature="e#79#80#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -301,11 +265,7 @@
             <element signature="e#76#77#0" expanded="true" />
             <element signature="e#114#115#0" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
           </folding>
         </state>
       </provider>

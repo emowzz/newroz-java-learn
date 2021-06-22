@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f6b58e6-6751-4d97-94d3-8fece0b4a5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a6ff3993-9c75-4893-b943-152cbb034673" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise_Array/Exercise_SortedArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Array/src/SortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Bill's_Burger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/HealthyBurger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,22 +31,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
+            <state relative-caret-position="525">
+              <caret line="30" column="22" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="30" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -52,14 +47,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -67,24 +70,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Polymorphism" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Polymorphism" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exercise_Array" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,9 +91,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Polymorphism" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Arrays" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,18 +112,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6f6b58e6-6751-4d97-94d3-8fece0b4a5e2" name="Default Changelist" comment="" />
-      <created>1624166177725</created>
+      <changelist id="a6ff3993-9c75-4893-b943-152cbb034673" name="Default Changelist" comment="" />
+      <created>1624343224170</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1624166177725</updated>
+      <updated>1624343224170</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="784" height="832" extended-state="0" />
+    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25552487" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5159501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -137,7 +133,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -157,10 +153,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
+        <state relative-caret-position="525">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="30" selection-end-column="22" />
         </state>
       </provider>
     </entry>

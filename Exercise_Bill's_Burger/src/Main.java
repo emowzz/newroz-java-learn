@@ -29,6 +29,7 @@ public class Main {
         healthyBurger.addHealthyAddition1("Lentils", 3.41);
         System.out.println("Total Healthy Burger price is  " + healthyBurger.itemizeHamburger());
 
+        //Encapsulation
         DeluxeBurger db = new DeluxeBurger();
         db.addHamburgerAddition3("Should not do this", 50.53);
         System.out.println("Total Deluxe Burger price is " + db.itemizeHamburger());
