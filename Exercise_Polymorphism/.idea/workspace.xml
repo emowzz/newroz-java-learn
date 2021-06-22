@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eea4b40-0f81-4fb2-95f3-e7b3c4516b2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Array/Exercise_SortedArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Array/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Array/src/SortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_Bill's_Burger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Bill's_Burger/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/Exercise_MinimumElementArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/src/MinimumElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Array/out/production/Exercise_SortedArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Array/out/production/Exercise_SortedArray/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Array/out/production/Exercise_SortedArray/SortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Array/out/production/Exercise_SortedArray/SortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Array/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
