@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0daf74ca-35c5-417c-b4c0-2bfe39bac1ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_ReverseArray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_ReverseArray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_ReverseArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_ReverseArray/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_ReverseArray/Exercise_ReverseArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_ReverseArray/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_ReverseArray/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/src/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_ReverseArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_ReverseArray/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/src/MinimumElement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+              <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -168,7 +164,7 @@
     <entry file="file://$PROJECT_DIR$/src/MinimumElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
