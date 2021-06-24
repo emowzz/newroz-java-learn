@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eea4b40-0f81-4fb2-95f3-e7b3c4516b2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/src/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/ArrayList_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_ReverseArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_ReverseArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,9 +115,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -120,6 +126,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,7 +138,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,10 +183,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="783" height="832" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25623268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26417705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

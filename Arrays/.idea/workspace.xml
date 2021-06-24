@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6ff3993-9c75-4893-b943-152cbb034673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/src/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/ArrayList_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_ReverseArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_ReverseArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,9 +50,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -106,8 +112,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="783" height="832" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5159501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
