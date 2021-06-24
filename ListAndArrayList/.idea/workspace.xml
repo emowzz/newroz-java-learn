@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a768c1d5-bea2-4c5e-a97f-ab1834db1ec0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/ArrayList_Challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Banking/Exercise_Banking.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/src/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" afterDir="false" />
@@ -148,6 +145,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="782" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25623268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
