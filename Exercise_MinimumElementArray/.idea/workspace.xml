@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0daf74ca-35c5-417c-b4c0-2bfe39bac1ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Banking/Exercise_Banking.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/src/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/src/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Banking/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Banking/src/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Banking/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Banking/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Banking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Banking/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" afterDir="false" />
