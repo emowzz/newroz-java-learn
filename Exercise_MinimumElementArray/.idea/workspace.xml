@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0daf74ca-35c5-417c-b4c0-2bfe39bac1ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_Banking/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Banking/src/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Banking/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Banking/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/Exercise_LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/src/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Banking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Banking/.idea/workspace.xml" afterDir="false" />
@@ -69,9 +73,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -79,6 +83,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,7 +96,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,10 +127,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="783" height="832" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25623268" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26417705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
