@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b61b0fc-24af-4234-bded-64f9e4ff2c3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/Exercise_LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/src/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_LinkedList/src/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_Banking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Banking/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_MinimumElementArray/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Polymorphism/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/ArrayList_MobilePhone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/src/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/src/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_LinkedList/out/production/Exercise_LinkedList/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LinkedList/out/production/Exercise_LinkedList/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+            <state relative-caret-position="75">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -77,13 +74,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="width" value="977" />
@@ -95,6 +85,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,8 +163,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+        <state relative-caret-position="75">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
