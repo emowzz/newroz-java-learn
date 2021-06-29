@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78248452-7c4c-438d-aeb7-d2bb3e5de7bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/DeskPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/Gearbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/ITelephone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/Exercise_Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/src/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/src/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/src/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_LinkedList/out/production/Exercise_LinkedList/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LinkedList/out/production/Exercise_LinkedList/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/LinkedListTraverse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -203,7 +204,7 @@
     <entry file="file://$PROJECT_DIR$/src/LinkedListTraverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
