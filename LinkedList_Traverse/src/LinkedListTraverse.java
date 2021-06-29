@@ -43,14 +43,14 @@ public class LinkedListTraverse {
                     quit = true;
                     break;
                 case 1:
-//                    if (!goingForward)
-//                    {
-//                        if(listIterator.hasNext()){
-//                            listIterator.next();
-//                        }
-//
-//                        goingForward = true;
-//                    }
+                    if (!goingForward)
+                    {
+                        if(listIterator.hasNext()){
+                            listIterator.next();
+                        }
+
+                        goingForward = true;
+                    }
                     if (listIterator.hasNext()) {
                         System.out.println("Now Visiting "+listIterator.next());
                     }
@@ -60,14 +60,14 @@ public class LinkedListTraverse {
                     }
                     break;
                 case 2:
-//                    if (goingForward)
-//                    {
-//                        if(listIterator.hasPrevious())
-//                        {
-//                            listIterator.previous();
-//                        }
-//                        goingForward = false;
-//                    }
+                    if (goingForward)
+                    {
+                        if(listIterator.hasPrevious())
+                        {
+                            listIterator.previous();
+                        }
+                        goingForward = false;
+                    }
                     if (listIterator.hasPrevious())
                     {
                         System.out.println("Now visiting "+listIterator.previous());
