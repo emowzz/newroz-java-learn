@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b61b0fc-24af-4234-bded-64f9e4ff2c3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/ArrayList_MobilePhone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/src/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/src/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/LinkedList_Traverse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/LinkedListTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_LinkedList/out/production/Exercise_LinkedList/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LinkedList/out/production/Exercise_LinkedList/Album.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="506">
+              <caret line="86" column="9" lean-forward="true" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -74,10 +72,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="128" />
+    <option name="y" value="40" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,7 +128,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <frame x="103" y="32" width="782" height="831" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24965326" />
@@ -141,7 +140,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3982808" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3982808" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -163,8 +162,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="506">
+          <caret line="86" column="9" lean-forward="true" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
         </state>
       </provider>
     </entry>
