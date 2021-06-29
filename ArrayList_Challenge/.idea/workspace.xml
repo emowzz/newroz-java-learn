@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ba17a32-695c-4b5c-9d4b-bedc26dd39f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/src/LinkedListTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/LinkedListTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/Interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
