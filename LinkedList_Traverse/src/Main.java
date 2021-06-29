@@ -11,8 +11,6 @@ public class Main {
 
         ListIterator listIterator = ll.listIterator();
 
-        ListIterator li = ll.listIterator();
-
         System.out.println("Enter first element to the linked list");
 
         String addElement = scanner.nextLine();
@@ -32,9 +30,8 @@ public class Main {
                     "4 -> to remove element at the last\n"+
                     "5 -> to remove element at the beginning\n"+
                     "6 -> to remove element at desired index\n"+
-                    "7 -> to traverse to next element\n"+
-                    "8 -> to traverse to previous element\n"+
-                    "9 -> to see the full list\n");
+                    "7 -> to visit linked list\n"+
+                    "8 -> to see the full list\n");
 
 
             int choice = scanner.nextInt();
@@ -94,26 +91,11 @@ public class Main {
                         break;
                     }
                     else {
-                        if(li.hasNext())
-                        {
-                            System.out.println("Now vising -> "+listIterator.next());
-                            break;
-                        }else{
-                            break;
-                        }
+                        LinkedListTraverse.visit(ll);
+                        break;
                     }
 
                 case 8:
-                    if (li.hasPrevious())
-                    {
-                        System.out.println("Now visiting -> "+li.hasPrevious());
-                        break;
-                    }else{
-                        System.out.println("Nothing to show");
-                        break;
-                    }
-
-                case 9:
                     if (ll.isEmpty())
                     {
                         System.out.println("Nothing to show");
@@ -121,6 +103,8 @@ public class Main {
                     }
                     System.out.println(ll);
                     break;
+
+
             }
         }
     }

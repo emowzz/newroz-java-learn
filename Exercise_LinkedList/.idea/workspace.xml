@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b725ee78-a399-4a77-b1b6-d5c5fbd2f1a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/LinkedList_Traverse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/LinkedListTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/out/production/LinkedList_Traverse/LinkedListTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/out/production/LinkedList_Traverse/LinkedListTraverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/out/production/LinkedList_Traverse/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/out/production/LinkedList_Traverse/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/src/LinkedListTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/LinkedListTraverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Album.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-663">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="412">
+              <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -196,8 +193,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Album.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-663">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="412">
+          <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b61b0fc-24af-4234-bded-64f9e4ff2c3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/LinkedList_Traverse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/LinkedListTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/out/production/LinkedList_Traverse/LinkedListTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/out/production/LinkedList_Traverse/LinkedListTraverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/out/production/LinkedList_Traverse/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/out/production/LinkedList_Traverse/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/src/LinkedListTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/LinkedListTraverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="86" column="9" lean-forward="true" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
+            <state relative-caret-position="2991">
+              <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
             </state>
           </provider>
         </entry>
@@ -72,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="128" />
     <option name="y" value="40" />
     <option name="width" value="978" />
@@ -128,7 +125,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="32" width="782" height="831" extended-state="1" />
+    <frame x="103" y="32" width="782" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24965326" />
@@ -162,8 +159,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="86" column="9" lean-forward="true" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
+        <state relative-caret-position="2991">
+          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
         </state>
       </provider>
     </entry>
