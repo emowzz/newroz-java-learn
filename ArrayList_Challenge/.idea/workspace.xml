@@ -2,27 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ba17a32-695c-4b5c-9d4b-bedc26dd39f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_InnerClass/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InnerClass/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InnerClass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InnerClass/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InnerClass/Exercise_InnerClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InnerClass/src/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InnerClass/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_InnerClass/src/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InnerClass/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InnerClass/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InnerClass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InnerClass/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InnerClass/InnerClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InnerClass/src/Gearbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InnerClass/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/AbstractClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/CanFLy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/Exercise_AbstractClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/src/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/src/NodeList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Interface/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList_Traverse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_InnerClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_InnerClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClass/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
