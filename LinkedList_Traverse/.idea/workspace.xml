@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78248452-7c4c-438d-aeb7-d2bb3e5de7bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/Exercise_Interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/src/ISaveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/src/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Interface/src/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_MobilePhone/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_LinkedList/out/production/Exercise_LinkedList/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_LinkedList/out/production/Exercise_LinkedList/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Interface/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
