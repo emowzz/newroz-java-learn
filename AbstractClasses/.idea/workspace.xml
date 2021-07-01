@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c5198e1-304a-42e1-933b-99cc98247a91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Generics/src/BaseballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/SoccerPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/Generics_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../League/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../League/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../League/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../League/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../League/League.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise_AbstractClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../InnerClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClass/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
