@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c5198e1-304a-42e1-933b-99cc98247a91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/Team.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList_Challenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_AbstractClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_AbstractClass/.idea/workspace.xml" afterDir="false" />
@@ -62,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
               <folding>
                 <element signature="e#93#94#0" expanded="true" />
                 <element signature="e#125#126#0" expanded="true" />
@@ -324,7 +329,7 @@
     <entry file="file://$PROJECT_DIR$/src/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="e#93#94#0" expanded="true" />
             <element signature="e#125#126#0" expanded="true" />
