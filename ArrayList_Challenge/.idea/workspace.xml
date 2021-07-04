@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ba17a32-695c-4b5c-9d4b-bedc26dd39f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/Generics_Challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/BaseballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/SoccerPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics_Challenge/src/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../League/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../League/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../League/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../League/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../League/League.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DebuggerDemo/src/com/company/StringUtilities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics_Challenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../InnerClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClass/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -99,9 +85,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,7 +140,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
+    <frame x="-8" y="0" width="784" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24965326" />

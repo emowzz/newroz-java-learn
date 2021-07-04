@@ -6,6 +6,8 @@ public class Main {
         BaseballPlayer Ahad = new BaseballPlayer("Ahad");
         SoccerPlayer Nabil = new SoccerPlayer("Nabil");
 
+
+        // this is the generics part where I can assign different types to a same class
         Team<FootballPlayer> footballPlayerTeam = new Team<>("Football Team");
         footballPlayerTeam.addPlayer(emon);
 
