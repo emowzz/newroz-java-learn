@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac87cb73-b7de-4253-9e4a-3809030d0159" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Utilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/UtilitiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/UtilitiesTestParameterized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/HelloWorldGreeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/RunnableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/TypeInferenceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Banking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -47,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/UtilitiesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="120">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding>
                 <element signature="e#160#161#0" expanded="true" />
                 <element signature="e#198#199#0" expanded="true" />
@@ -60,10 +62,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/UtilitiesTestParameterized.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+            <state relative-caret-position="1150">
+              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,6 +146,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -276,12 +281,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UtilitiesTest_removePairs - 2021.07.05 at 14h 05m 04s.xml">
-      <configuration name="UtilitiesTest.removePairs" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UtilitiesTest_everyNthChar - 2021.07.05 at 14h 05m 12s.xml">
-      <configuration name="UtilitiesTest.everyNthChar" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UtilitiesTest_everyNthChar - 2021.07.05 at 14h 07m 20s.xml">
       <configuration name="UtilitiesTest.everyNthChar" configurationId="JUnit" />
     </history-entry>
@@ -306,6 +305,12 @@
     <history-entry file="UtilitiesTest - 2021.07.05 at 14h 30m 05s.xml">
       <configuration name="UtilitiesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UtilitiesTestParameterized - 2021.07.05 at 14h 39m 57s.xml">
+      <configuration name="UtilitiesTestParameterized" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilitiesTestParameterized - 2021.07.05 at 14h 40m 37s.xml">
+      <configuration name="UtilitiesTestParameterized" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="781" height="830" extended-state="0" />
@@ -320,11 +325,11 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3295129" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -343,7 +348,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -360,8 +365,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/UtilitiesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="120">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding>
             <element signature="e#160#161#0" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />
@@ -371,10 +376,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/UtilitiesTestParameterized.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        <state relative-caret-position="1150">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
           </folding>
         </state>
       </provider>
