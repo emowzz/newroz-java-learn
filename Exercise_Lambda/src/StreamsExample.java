@@ -17,5 +17,11 @@ public class StreamsExample {
                 .forEach(p -> System.out.println(p.getFirstName()));
 
 
+        long count = people.stream()
+                .filter(p -> p.getLastName().startsWith("C"))
+                .count();
+
+        System.out.println(count);
+
     }
 }
