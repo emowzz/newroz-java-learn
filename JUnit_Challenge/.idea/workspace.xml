@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac87cb73-b7de-4253-9e4a-3809030d0159" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/HelloWorldGreeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/LambdaExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/RunnableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/TypeInferenceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Banking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/Exercise_Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/UnitExerciseJava7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/UnitExerciseJava8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lambda/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,12 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Utilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450">
+            <state relative-caret-position="825">
               <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-              <folding>
-                <element signature="e#1461#1462#0" expanded="true" />
-                <element signature="e#1503#1504#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -49,12 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/UtilitiesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="225">
               <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-              <folding>
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -62,12 +57,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/UtilitiesTestParameterized.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+            <state relative-caret-position="25">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,18 +90,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -251,11 +237,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UtilitiesTest.nullIfOddLength" />
-      <item itemvalue="JUnit.UtilitiesTest.converter" />
-      <item itemvalue="JUnit.UtilitiesTest.convert_arithmeticException" />
-      <item itemvalue="JUnit.UtilitiesTest" />
       <item itemvalue="JUnit.UtilitiesTestParameterized" />
+      <item itemvalue="JUnit.UtilitiesTest" />
+      <item itemvalue="JUnit.UtilitiesTest.convert_arithmeticException" />
+      <item itemvalue="JUnit.UtilitiesTest.converter" />
+      <item itemvalue="JUnit.UtilitiesTest.nullIfOddLength" />
     </list>
     <recent_temporary>
       <list>
@@ -313,7 +299,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="0" width="782" height="831" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -321,7 +307,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24965326" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24965326" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -354,34 +340,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Utilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
+        <state relative-caret-position="825">
           <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-          <folding>
-            <element signature="e#1461#1462#0" expanded="true" />
-            <element signature="e#1503#1504#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/UtilitiesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="225">
           <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/UtilitiesTestParameterized.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        <state relative-caret-position="25">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
           </folding>
         </state>
       </provider>
