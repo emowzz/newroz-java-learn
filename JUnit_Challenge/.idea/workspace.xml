@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac87cb73-b7de-4253-9e4a-3809030d0159" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/Exercise_Lambda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/UnitExerciseJava7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/UnitExerciseJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/ExceptionHandlingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lambda/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
