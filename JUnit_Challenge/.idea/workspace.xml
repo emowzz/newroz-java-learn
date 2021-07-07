@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac87cb73-b7de-4253-9e4a-3809030d0159" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/ClosuresExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/MethodReferenceExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/MethodReferenceExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise_Lambda/src/ThisReferenceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise_Lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Lambda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Lambda/out/production/Exercise_Lambda/ClosuresExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_Lambda/out/production/Exercise_Lambda/ClosuresExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise_Lambda/out/production/Exercise_Lambda/ClosuresExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
@@ -290,7 +295,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="782" height="831" extended-state="1" />
+    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
